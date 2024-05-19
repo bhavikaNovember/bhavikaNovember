@@ -1,16 +1,19 @@
-### Hi there 👋
+# Bhavika Pasari
 
-<!--
-**bhavikaNovember/bhavikaNovember** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️ bhavikapasari29@gmail.com | [LinkedIn](https://www.linkedin.com/in/bhavikapasari/) 
 
-Here are some ideas to get you started:
+Hello! I'm Bhavika, a frontend enthusiast who loves crafting stylish websites. I love creating easy-to-use and attractive websites. I've worked on many projects where I made websites that people love to use. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I find joy in building websites that not only look cool but also function smoothly. From responsive layouts to eye-catching styles, I enjoy every aspect of the web development process.
+
+## Technical Skills
+
+- **Languages:** Java, JavaScript
+- **Frontend:** React, React-Redux, HTML, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB
+- **Others:** Data Structures and Algorithms (DSA), Git, VS Code
+
+## Let's Connect!
+
+Feel free to reach out if you share the same passion for frontend development or if you'd like to collaborate on an exciting project.
