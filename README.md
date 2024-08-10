@@ -1,6 +1,6 @@
 # Bhavika Pasari
 
-✉️ bhavikapasari29@gmail.com | [LinkedIn](https://www.linkedin.com/in/bhavikapasari/) 
+✉️ bhavikapasari2000@gmail.com | [LinkedIn](https://www.linkedin.com/in/bhavikapasari/) 
 
 Hello! I'm Bhavika, a frontend enthusiast who loves crafting stylish websites. I love creating easy-to-use and attractive websites. I've worked on many projects where I made websites that people love to use. 
 
